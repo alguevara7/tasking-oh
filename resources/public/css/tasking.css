@@ -1,0 +1,12 @@
+.story-box {
+    height: 350px;
+    border: 1px solid black;
+    background-color: #E8E8E8;
+}
+
+.story-box-title {
+    text-align:center;
+}
+
+.task-odd { background: #FFC }
+.task-even { background: #CCC }
